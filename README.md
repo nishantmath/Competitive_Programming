@@ -18,6 +18,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/nishantmath/Competitive_Programming/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nishantmath/Competitive_Programming/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/nishantmath/Competitive_Programming/tree/master/0058-length-of-last-word) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nishantmath/Competitive_Programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
