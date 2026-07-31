@@ -34,9 +34,14 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/nishantmath/Competitive_Programming/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/nishantmath/Competitive_Programming/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nishantmath/Competitive_Programming/tree/master/0048-rotate-image) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/nishantmath/Competitive_Programming/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
