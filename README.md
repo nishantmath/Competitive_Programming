@@ -9,6 +9,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nishantmath/Competitive_Programming/tree/master/0001-two-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nishantmath/Competitive_Programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -34,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nishantmath/Competitive_Programming/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/nishantmath/Competitive_Programming/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/nishantmath/Competitive_Programming/tree/master/0048-rotate-image) |
 ## Matrix
