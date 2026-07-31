@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nishantmath/Competitive_Programming/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/nishantmath/Competitive_Programming/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nishantmath/Competitive_Programming/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/nishantmath/Competitive_Programming/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/nishantmath/Competitive_Programming/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
