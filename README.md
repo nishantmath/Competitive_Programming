@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/nishantmath/Competitive_Programming/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nishantmath/Competitive_Programming/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/nishantmath/Competitive_Programming/tree/master/0048-rotate-image) |
+| [0486-predict-the-winner](https://github.com/nishantmath/Competitive_Programming/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0039-combination-sum](https://github.com/nishantmath/Competitive_Programming/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/nishantmath/Competitive_Programming/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nishantmath/Competitive_Programming/tree/master/0049-group-anagrams) |
+| [0486-predict-the-winner](https://github.com/nishantmath/Competitive_Programming/tree/master/0486-predict-the-winner) |
 ## Matrix
 |  |
 | ------- |
@@ -57,4 +59,16 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nishantmath/Competitive_Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/nishantmath/Competitive_Programming/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/nishantmath/Competitive_Programming/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/nishantmath/Competitive_Programming/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
